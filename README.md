@@ -1,0 +1,1 @@
+HNN is a model that focuses not on vision or sound based data processed to find potential patterns, but a model that emphasizes real physics laws. The hamiltonian is extremely important and common in various areas of phyusics, thus empowering the model to have excellent performance when handling real-world physics.
